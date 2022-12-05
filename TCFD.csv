@@ -1,0 +1,44 @@
+﻿ID Column,Keywords
+TCFD.GHG.Emissions.1,"Absolute Scope 1, Scope 2, and Scope 3; emissions intensity,Greenhouse gases sources, transportation emissions, increasing efficiency of existing fossil fuel-fired power, renewable energy, fuel switching, nuclear energy, carbon capture and Sequestration (CCS)"
+TCFD.Transition.Risks.2,"Amount of assets, extent of assets, business activities vulnerable to transition risks, transition risk, Risk to business activities,Climate-related risk, costs the energy industry, carbon-neutral economy, climate solutions,  cycle of fossil fuels, using net zero carbon economy"
+TCFD.PhysicalRisks.3,"Amount and extent of assets or business activities vulnerable to physical risks,Physical effects of climate change and environmental degradation, heat wave, cold wave, drought, hurricanes, and wildfires"
+TCFD.ClimateRelatedOpportunities.4,"Proportion of revenue, assets, or other business activities aligned with climate-related opportunities,Policy and Legal Risks, resource efficiency, climate resilience, financial impacts of climate-related risks, expansion of low emission goods, Participation in renewable energy programs, Increased revenue through new products"
+TCFD.CapitalDeployment.5,"Amount of capital expenditure, financing, or investment deployed toward climate-related risks and opportunities,Net present value in capital deployment, portfolio equity minority, growth of strategic partnership investments, co-investment opportunities, direct lending and alternative capital growth, growth equity"
+TCFD.InternalCarbonPrices.6,"Price on each ton of GHG emissions used internally by an organization,Internal carbon fee, carbon disclosure project, restricting carbon emissions, GHG emissions, incentivising efficiency, low-carbon innovation, carbon-related risks, trends of carbon pricing series"
+TCFD.Remuneration .7,"Proportion of executive management remuneration linked to climate considerations,Remuneration policies, task force on climate-related financial disclosures, transition plans of remuneration, operational emission targets for remuneration scorecard, climate considerations linked to remuneration"
+TCFD.TransitionRisk.8,"Increased pricing of GHG emissions,Remuneration policies, task force on climate-related financial disclosures, transition plans of remuneration, operational emission targets for remuneration scorecard, climate considerations linked to remuneration"
+TCFD.TransitionRisk.9,"Enhanced emissions-reporting obligations,Compensation for carbon-transition risk, transition risks business related,  policy approach to carbon price, carbon pricing marketplace, incentives to decarbonize the entire economy, carbon footprint, curbing carbon emissions,Emissions data and risk information, indirect GHG emissions, SEC’s legal authority, emissions disclosure, GHG Protocol, climate monitoring mechanism"
+TCFD.TransitionRisk.10,Mandates on and regulation of existing products and services
+TCFD.TransitionRisk.11,"Exposure to litigation,Mitigating water risk,  accurate ESG reporting and compliance,  sustainable groundwater management act (SGMA),  groundwater protections,Litigation risk model,  climate-related litigation,  litigation against public entities,  breaching international climate commitments,  direct exposure of financial institutions to climate-related litigation"
+TCFD.TransitionRisk.12,"Substitution of existing products and services with lower emissions options,Lower-emission sources of energy, low carbon market, reduce exposure to GHG emissions, usage of renewable energy, usage of solar power, no emissions energy methods"
+TCFD.TransitionRisk.13,"Emerging technologies influencing the competitivenss of the orgainzation,Effects on labor markets, increased wage inequality, low-wage workers, industrial revolution, new technologies policy agenda, innovative ecosystem"
+TCFD.TransitionRisk.14,"Unsuccessful investment in new technologies,Effects on labor markets, increased wage inequality, low-wage workers, industrial revolution, new technologies policy agenda, innovative ecosystem"
+TCFD.TransitionRisk.15,"Costs to transition to lower emissions technology,Lack of critical data, restrictive internal processes, lack of adaptability such as plan A, B, C, risks of agricultural chemicals"
+TCFD.TransitionRisk.16,"Changing customer behavior,Reducing customer demands, "
+TCFD.TransitionRisk.17,"Uncertainty in market signals,"
+TCFD.TransitionRisk.18,"Increased cost of raw materials,High costs of low emission transition, job losses, fear of stakeholders,Risk, uncertainty, and financial institutions"
+TCFD.TransitionRisk.19,Shifts in consumer preferences
+TCFD.TransitionRisk.20,Stigmatization of sector
+TCFD.TransitionRisk.21,Increased stakeholder concern or negative stakeholder feedback
+TCFD.PhysicalRisk.22,Increased severity of extreme weather events such as cyclones and floods
+TCFD.PhysicalRisk.23,Changes in precipitation patterns and extreme variability in weather patterns
+TCFD.PhysicalRisk.24,Rising mean temperatures
+TCFD.PhysicalRisk.25,Rising sea levels
+TCFD.Resource.efficiency.26,Use of more efficient modes of transport
+TCFD.Resource.efficiency.27,Use of more efficient production and distribution processes
+TCFD.Resource.efficiency.28,Use of recycling
+TCFD.Resource.efficiency.29,Move to more efficient buildings
+TCFD.Resource.efficiency.30,Reduced water usage and consumption
+TCFD.EnergySource.31,Use of lower-emission sources of energy
+TCFD.EnergySource.32,Use of supportive policy incentives
+TCFD.EnergySource.33,Use of new technologies
+TCFD.EnergySource.34,Participation in carbon market
+TCFD.EnergySource.35,Shift toward decentralized energy generation
+TCFD.ProductsandServices.36,Development and/or expansion of low emission goods and services
+TCFD.ProductsandServices.37,Development of climate adaptation and insurance risk solutions
+TCFD.ProductsandServices.38,Development of new products or services through R&D and innovation
+TCFD.Markets.39,Access to new markets
+TCFD.Markets.40,Use of public-sector incentives
+TCFD.Markets.41,Access to new assets and locations needing insurance coverage
+TCFD.Resilience.42,Participation in renewable energy programs and adoption of energy- efficiency measures
+TCFD.Resilience.43,Resource substitutes/diversification
