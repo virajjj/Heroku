@@ -8,6 +8,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
+import os
 SFDR = pd.read_csv('EU_SFDR.csv')
 TCFD = pd.read_csv('TCFD.csv')
 Global = pd.read_csv('UN_globalcompact.csv')
